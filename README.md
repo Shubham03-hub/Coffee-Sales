@@ -1,4 +1,3 @@
-# Coffee-Sales
 # Coffee Sales Analysis
 This project analyzes the coffee sales data from various store locations, product categories, and time periods to uncover key insights into sales performance, customer preferences, and operational efficiency. Using the dataset from **cleaned_coffeesales.csv**, we create dashboards, pivot tables, and visualizations to support data-driven decision-making.
 
