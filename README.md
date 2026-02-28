@@ -34,7 +34,3 @@ The dataset includes detailed transaction records—dates, times, store location
 - I will launch targeted marketing campaigns during peak hours to maximize sales.  
 - Using real-time dashboards will help me keep a close eye on store performance.  
 - I’ll also gather customer feedback regularly to refine my product offerings and keep customers coming back.
-
----
-
-Would you like me to help you adapt this further for a presentation or report?
